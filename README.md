@@ -1,4 +1,4 @@
-# Monthly Car Sales in Quebec Forecasting Project
+# Forecast of Monthly Car Sales in Quebec Project
 This repository contains the dataset, analysis code, and report for predicting Monthly Car Sales in Quebec using time series analysis.
 
 ## Structure
